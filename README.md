@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoF17
-- 👀 I’m interested in learning Javascrip and Solidity. 
+- 👀 I’m interested in learning Javascript and Solidity. 
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on DAOs, anything related with blockchain.
 - 📫 How to reach me joao_fernandess17@hotmail.com
