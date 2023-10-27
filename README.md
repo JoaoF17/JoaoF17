@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoF17
 - 👀 On a Python journey. 
-- 🌱 Basic foundations on Javascript (Next,js) and Solidity
+- 🌱 Basic foundations on Javascript (Next.js) and Solidity
 - 💞️ Web3 and data analysis enthusiast.
 - 📫 You can reach me at: joao_fernandess17@hotmail.com
 
