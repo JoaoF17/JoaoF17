@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoaoF17
-- 👀 I’m interested in learning Javascript and Solidity. 
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on DAOs, anything related with blockchain.
-- 📫 How to reach me joao_fernandess17@hotmail.com
+- 👀 On a Python journey. 
+- 🌱 Basic foundations on Javascript (Next,js) and Solidity
+- 💞️ Web3 and data analysis enthusiast.
+- 📫 You can reach me at: joao_fernandess17@hotmail.com
 
 <!---
 JoaoF17/JoaoF17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
